@@ -72,12 +72,12 @@
 		<lifecycle.mapping.version>1.0.0</lifecycle.mapping.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<jdk.version>1.7</jdk.version>
-		<repo.public.url>http://maven.wozsz.com/content/groups/public/</repo.public.url>
-		<repo.public.plugin.url>http://maven.wozsz.com/content/groups/public/</repo.public.plugin.url>
+		<repo.public.url>http://maven.aliyun.com/nexus/content/groups/public/</repo.public.url>
+		<repo.public.plugin.url>http://maven.aliyun.com/nexus/content/groups/public/</repo.public.plugin.url>
 		<repo.distribution.release.id>releases</repo.distribution.release.id>
-		<repo.distribution.release.url>http://maven.wozsz.com/content/repositories/releases/</repo.distribution.release.url>
+		<repo.distribution.release.url>http://maven.aliyun.com/nexus/content/repositories/releases/</repo.distribution.release.url>
 		<repo.distribution.snapshot.id>snapshots</repo.distribution.snapshot.id>
-		<repo.distribution.snapshot.url>http://maven.wozsz.com/content/repositories/snapshots/</repo.distribution.snapshot.url>
+		<repo.distribution.snapshot.url>http://maven.aliyun.com/nexus/content/repositories/snapshots/</repo.distribution.snapshot.url>
 	</properties>
 
 	<dependencies>
